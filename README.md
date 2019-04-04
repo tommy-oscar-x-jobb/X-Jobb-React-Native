@@ -19,7 +19,7 @@ npm install -g react-native-cli
 ## 4. Clone the Github repository
 Download the repo as an zipfile or use the command:
 ```
-git clone https://github.com/Tickaren/X-Jobb-React-Native
+git clone https://github.com/tommy-oscar-x-jobb/X-Jobb-React-Native
 ```
 
 ## 5. Install dependencies:
