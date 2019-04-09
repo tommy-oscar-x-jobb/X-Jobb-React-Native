@@ -1,4 +1,5 @@
 # X-Jobb-React-Native
+All data from the experiments is included in Experiments.xlsx
 
 # Install instructions:
 Follow full instructions on [React Native docs](https://facebook.github.io/react-native/docs/getting-started)
