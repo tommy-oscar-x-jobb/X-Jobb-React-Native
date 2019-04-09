@@ -39,4 +39,4 @@ react-native run-ios
 ```
 
 # Screenchots:
-![Alt text](Screenchots/react1.png?raw=true "Title")
+![[Screenshot]](Screenchots/react1.png)
