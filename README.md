@@ -40,3 +40,10 @@ react-native run-ios
 
 # Screenchots:
 ![[Screenshot]](/Screenchots/react1.png)
+![[Screenshot]](/Screenchots/react2.jpg)
+![[Screenshot]](/Screenchots/react3.png)
+![[Screenshot]](/Screenchots/react4.jpg)
+![[Screenshot]](/Screenchots/react5.png)
+![[Screenshot]](/Screenchots/react6.jpg)
+
+
