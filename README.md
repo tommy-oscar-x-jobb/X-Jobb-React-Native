@@ -40,7 +40,7 @@ react-native run-ios
 
 # Screenchots:
 ![[Screenshot]](/Screenchots/react1.png)
-![[Screenshot]](/Screenchots/react2.jpg | width=100)
+![[Screenshot]](/Screenchots/react2.jpg =250x)
 ![[Screenshot]](/Screenchots/react3.png)
 ![[Screenshot]](/Screenchots/react4.jpg)
 ![[Screenshot]](/Screenchots/react5.png)
