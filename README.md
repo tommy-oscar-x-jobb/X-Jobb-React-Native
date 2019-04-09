@@ -39,4 +39,4 @@ react-native run-ios
 ```
 
 # Screenchots:
-![[Screenshot]](Screenchots/react1.png)
+![[Screenshot]](/Screenchots/react1.png)
