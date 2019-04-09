@@ -37,3 +37,6 @@ or
 ```
 react-native run-ios
 ```
+
+# Screenchots:
+![Alt text](Screenchots/react1.jpg?raw=true "Title")
