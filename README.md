@@ -40,11 +40,17 @@ react-native run-ios
 
 # Screenchots:
 <img src="/Screenchots/react1.png" alt="Screenshot" width="200"/>
+Startsida på IOS use-case byggt med React Native.
 <img src="/Screenchots/react2.jpg" alt="Screenshot" width="200"/>
+Startsida på Android use-case byggt med React Native.
 <img src="/Screenchots/react3.png" alt="Screenshot" width="200"/>
+Resultat av “GraphExperiment 1” på IOS use-case byggt i React Native -> Rendering av 684st datapunkter i graf med key-value pairs.
 <img src="/Screenchots/react4.jpg" alt="Screenshot" width="200"/>
+Resultat av “GraphExperiment 1” på Android use-case byggt i React Native -> Rendering av 684st datapunkter i graf med key-value pairs.
 <img src="/Screenchots/react5.png" alt="Screenshot" width="200"/>
+Resultat av “GraphExperiment 1” på IOS use-case byggt i React Native -> Vald datapunkt presenterad i popup fönster.
 <img src="/Screenchots/react6.jpg" alt="Screenshot" width="200"/>
+Resultat av “Experiment1” på Android use-case byggt i React Native -> Vald datapunkt presenterad i popup fönster.
 
 
 
