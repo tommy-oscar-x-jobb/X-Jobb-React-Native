@@ -39,12 +39,12 @@ react-native run-ios
 ```
 
 # Screenchots:
-![[Screenshot]](/Screenchots/react1.png)
+<img src="/Screenchots/react1.png" alt="Screenshot" width="200"/>
 <img src="/Screenchots/react2.jpg" alt="Screenshot" width="200"/>
-<!-- ![[Screenshot]](/Screenchots/react2.jpg =250x) -->
-![[Screenshot]](/Screenchots/react3.png)
-![[Screenshot]](/Screenchots/react4.jpg)
-![[Screenshot]](/Screenchots/react5.png)
-![[Screenshot]](/Screenchots/react6.jpg)
+<img src="/Screenchots/react3.png" alt="Screenshot" width="200"/>
+<img src="/Screenchots/react4.jpg" alt="Screenshot" width="200"/>
+<img src="/Screenchots/react5.png" alt="Screenshot" width="200"/>
+<img src="/Screenchots/react6.jpg" alt="Screenshot" width="200"/>
+
 
 
