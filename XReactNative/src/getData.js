@@ -17,10 +17,10 @@ export const getIOSData = ()=> {
   return customData;
 }
 
-export const parseAllData = (customData) =>{
+export const parseAllData = (data) =>{
   var dataArray = [];
-  for (var i = 0; i < customData.length; i++) {
-    var item = customData[i];
+  for (var i = 0; i < data.length; i++) {
+    var item = data[i];
     dataArray.push([
       item.Datum,
       item.Lufttemperatur
